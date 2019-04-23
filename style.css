@@ -93,3 +93,8 @@
 	padding: 20px;
 	height: 1%;
 }
+
+a{
+    color: darkgray;
+    text-decoration: none;
+}

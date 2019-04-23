@@ -95,6 +95,11 @@
 }
 
 a{
-    color: darkgray;
+    color: #555555;
     text-decoration: none;
+}
+a:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    transition: 0.3s;
 }
